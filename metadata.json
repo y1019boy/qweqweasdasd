@@ -1,0 +1,5 @@
+{
+  "name": "Japan Quake Monitor AI",
+  "description": "Real-time earthquake monitoring application for Japan using P2P Quake API for live data and Google Gemini for intelligent safety advice and analysis. Features an interactive map visualization of seismic intensity and Earthquake Early Warning (EEW) alerts.",
+  "requestFramePermissions": []
+}
